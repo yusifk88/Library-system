@@ -10,9 +10,17 @@ interface and logical structure to access these libraries. CodeIgniter lets
 you creatively focus on your project by minimizing the amount of code needed
 for a given task.
 
+
+######################
+Installing the app
+######################
+Open PHPMyadmin and create a database called tmtclib.
+open the database and import the tables by selecting the tmtclib.sql file added in the project
+
 *******************
 Release Information
 *******************
+
 
 This repo contains in-development code for future releases. To download the
 latest stable release please visit the `CodeIgniter Downloads
